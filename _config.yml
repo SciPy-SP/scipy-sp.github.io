@@ -2,9 +2,9 @@
 name: SciPySP
 title: Somos o grupo de Python Cientifico em São Paulo
 description: > # this means to ignore newlines until "baseurl:"
-  SciPy (pronuncia-se 'Sai Pai') é um ecossistema open-source baseado em Python para matemática, ciências e engenharia.
+  Um ecossistema open-source baseado em Python para matemática, ciências e engenharia.
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
+baseurl: "/SciPy" # the subpath of your site, e.g. /blog
 url: "scipy-sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
