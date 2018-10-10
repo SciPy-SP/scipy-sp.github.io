@@ -8,16 +8,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scipy-sp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: SciPySP/
-twitter: SciPySP
+facebook: https://www.facebook.com/SciPySP/
+twitter: https://twitter.com/SciPySP
 #google-plus: #Add your Google+
-github: SciPy-SP
+github: https://github.com/SciPy-SP
 
 # Contact form
 email: contato@sp.scipy.org.br
 
 # Comments
-discus-identifier: SciPy-Sampa # Add your Disqus identifier
+discus-identifier: # Add your Disqus identifier
 
 # Paginate
 paginate: 5
